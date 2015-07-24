@@ -2,7 +2,7 @@
 
 Run only this file: CreateFISHdataStruc.m - it calls all other funcIons.
 
-Make sure that current matlab contains folder with sample images.
+Make sure that current matlab contains folder with sample images and all function .m files listed below.
 
 Important: the script CreateFISHdataStruc.m require the following matlab toolboxes to run:
 
