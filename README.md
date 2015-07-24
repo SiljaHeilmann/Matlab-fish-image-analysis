@@ -11,24 +11,24 @@ Important: the script CreateFISHdataStruc.m require the following matlab toolbox
 • Matlab imaging processing toolbox
 
 
-Functions called by 'CreateFISHdataStruc.m':
-find_rot_angle.m
-Merge.m
-MergeBF.m
-return_side.m
-return_body_outlines.m
-return_clustered_L.m
-return_dist_matrix.m
-return_eye_outline.m
-return_fish_length.m
-return_front_coor_Std.m
-return_front_coor_T.m
-return_front_coor.m
-return_L_divided.m
-return_spine_coor_Std.m
-return_spine_coor_T.m
-return_spine_outline.m
-smoothBW.m
+      Functions called by 'CreateFISHdataStruc.m':
+      find_rot_angle.m
+      Merge.m
+      MergeBF.m
+      return_side.m
+      return_body_outlines.m
+      return_clustered_L.m
+      return_dist_matrix.m
+      return_eye_outline.m
+      return_fish_length.m
+      return_front_coor_Std.m
+      return_front_coor_T.m
+      return_front_coor.m
+      return_L_divided.m
+      return_spine_coor_Std.m
+      return_spine_coor_T.m
+      return_spine_outline.m
+      smoothBW.m
       
       Functions called only inside other functions:
       return_clustered_C.m
