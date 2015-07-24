@@ -5,6 +5,7 @@ Run only this file: CreateFISHdataStruc.m - it calls all other funcIons.
 Make sure that current matlab contains folder with sample images.
 
 Important: the script CreateFISHdataStruc.m require the following matlab toolboxes to run:
+
 • Matlab statistics toolbox
 • Matlab imaging processing toolbox
 
