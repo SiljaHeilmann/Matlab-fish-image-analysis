@@ -1,6 +1,6 @@
 # Matlab-fish-image-analysis
 
-Run only this file: CreateFISHdataStruc.m - it calls all other funcIons.
+Run only this file: CreateFISHdataStruc.m - it calls all other functions.
 
 Make sure that current matlab contains folder with sample images and all function .m files listed below.
 
